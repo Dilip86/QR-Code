@@ -1,3 +1,4 @@
+![Screenshot 2023-10-18 233829](https://github.com/Dilip86/QR-Code/assets/97818951/20450f87-ce5c-477c-b979-9fb76dfb3d3f)
 # QR Code Generator
 This is a simple web-based QR code generator that allows you to quickly create QR codes for any text or URL you input. It is designed to be easy to use, and you can generate QR codes in a matter of seconds.
 
